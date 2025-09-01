@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\bin\Debug\net9.0\BerkeleySync.exe
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\bin\Debug\net9.0\BerkeleySync.deps.json
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\bin\Debug\net9.0\BerkeleySync.runtimeconfig.json
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\bin\Debug\net9.0\BerkeleySync.dll
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\bin\Debug\net9.0\BerkeleySync.pdb
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\BerkeleySync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\BerkeleySync.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\BerkeleySync.AssemblyInfo.cs
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\BerkeleySync.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\BerkeleySync.dll
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\refint\BerkeleySync.dll
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\BerkeleySync.pdb
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\BerkeleySync.genruntimeconfig.cache
+C:\Users\PICHAU\Downloads\TrabalhoSistemasDistribuidos\BerkeleySync\obj\Debug\net9.0\ref\BerkeleySync.dll

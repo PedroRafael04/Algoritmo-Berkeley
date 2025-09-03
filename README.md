@@ -1,3 +1,5 @@
+Membros: Pedro Rafael, Leonardo Dal'Olmo, Marlon Moser ou Rafael Ehlert.
+
 Para instanciar o processo servidor:
 
 dotnet run -- server --port 5000 --interval 5 --outlier-ms 0

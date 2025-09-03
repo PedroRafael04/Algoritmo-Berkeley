@@ -1,4 +1,4 @@
-Membros: Pedro Rafael, Leonardo Dal'Olmo, Marlon Moser ou Rafael Ehlert.
+Membros: Pedro Rafael, Leonardo Dal'Olmo, Marlon Moser e Rafael Ehlert.
 
 Para instanciar o processo servidor:
 
